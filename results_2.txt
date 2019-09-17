@@ -1,0 +1,5 @@
+
+ 
+ Error train: 0.04889022558927536, Error valid: 0.06700406223535538, Train acc: 0.9855636358261108, Valid acc: 0.9807999730110168
+ Max accuracy on valid: 0.9807999730110168
+ Batch size:1000, Epochs: 10, Learning rate: 0.001, Drop prob: 0.4, Activation function: relu, Neurons: (784, 784), Cost function: softmax, Optimizer: sgd

@@ -1,0 +1,15 @@
+.idea
+src/test.py
+src/data
+*ipynb
+*model
+*xml
+*iml
+*pyc
+src/.idea/workspace.xml
+src/.idea
+*ipynb*
+src/Models
+test.py
+logs/
+resources/
